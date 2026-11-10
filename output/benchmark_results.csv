@@ -1,0 +1,8 @@
+Metric,Value
+Baseline Average Time,0.06922279999962484
+Optimized Average Time,0.06467408000025898
+Time Improvement Percentage,6.571129742498877
+Baseline Memory MB,26.53908920288086
+Optimized Memory MB,20.454647064208984
+Memory Improvement Percentage,22.92634118736599
+Merged Records,100000.0

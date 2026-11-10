@@ -1,0 +1,6 @@
+order_id,customer_id,amount,customer_name,city
+101,C01,2000,Ramya,Hyderabad
+102,C02,3000,Rahul,Chennai
+103,C01,1500,Ramya,Hyderabad
+104,C03,2500,Priya,Bangalore
+105,C02,1000,Rahul,Chennai
